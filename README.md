@@ -1,8 +1,9 @@
 # pixels
----
 
-# One Hour Pair Programming Hack: Firebase and React:
-[youtube clip I worked with] (https://www.youtube.com/watch?v=vyUNwihe9hI "link to youtube clip")
+<p>&nbsp;</p>
 
-# Fun Fun Function channel:
-[FunFunFunction Channel] (https://www.youtube.com/c/funfunfunction/about "link to channel")
+> One Hour Pair Programming Hack: Firebase and React:
+> <https://www.youtube.com/watch?v=vyUNwihe9hI>
+
+> Fun Fun Function channel:
+> <https://www.youtube.com/c/funfunfunction/about>
